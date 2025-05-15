@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mattia.carlino22@gmail.com**
 
-- 📄 Know about my experiences [See my CV]()
+- 📄 Know about my experiences [See my CV](CV.pdf)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
