@@ -17,30 +17,39 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiazzo&show_icons=true&locale=en&layout=compact" alt="Tiazzo" /></p>
 
 <p><img align="center" width="419px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiazzo&" alt="Tiazzo" /></p>
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Python -->
+    <!--
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <!-- Java -->
+    <!--
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <!-- C -->
+    <!--
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+    <!--
   <!-- Terraform -->
+   <!--
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
   </a>
+    <!--
   <!-- Docker -->
+   <!--
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
+    <!--
   <!-- Kubernetes -->
+   <!--
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
