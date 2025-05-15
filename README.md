@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia Carlino </h1>
 <h3 align="center">A loud, expressive italian Computer Engineer passionate about AI, cloud computing!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiazzo&label=Profile%20views&color=0e75b6&style=flat" alt="Tiazzo" /> </p>
 
 - 📚 I'm currently a Master's student at Politecnico di Torino - Computer Engineering, and an exchange student at Chalmers, Sweden 🇸🇪.
 
@@ -25,7 +25,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mattia-carlino-8b6071228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia carlino" height="30" width="40" /></a>
 </p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>--X
