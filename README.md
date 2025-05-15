@@ -30,7 +30,7 @@
   </a>
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://iconduck.com/assets/icons/png/rust-256x256.png" alt="rust" width="40" height="40"/>
   </a>
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
