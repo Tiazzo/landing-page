@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mattia Carlino </h1>
 <h3 align="center">A loud, expressive italian Computer Engineer passionate about AI, cloud computing!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiazzo&label=Profile%20views&color=0e75b6&style=flat" alt="Tiazzo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiazzo&label=Profile%20views&color=0e75b6&style=flat" alt="Tiazzo" /> </p>< -->
 
 - 📚 I'm currently a Master's student at Politecnico di Torino - Computer Engineering, and an exchange student at Chalmers, Sweden 🇸🇪.
 
 - 🔭 I’m currently working on my Master Thesis in collaboration with the Vehicle Safaty Department at Chalmers (repo soon available!)
 
-- 🌱 I’m currently learning **LLM, RAG, Data Pipeline, Cloud Infrastructure**
+- 🌱 I’m currently learning **LLM, RAG, Data Pipeline and Cloud Infrastructure**
 
 - 📫 How to reach me **mattia.carlino22@gmail.com**
 
