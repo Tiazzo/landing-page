@@ -5,9 +5,9 @@
 
 - 📚 I'm currently a Master's student at Politecnico di Torino - Computer Engineering, and an exchange student at Chalmers, Sweden 🇸🇪.
 
-- 🔭 I’m currently working on [AXI4 High Speed Communication for General Purpose Microprocessors and RegEx Architectures](https://github.com/Marcolbr2001/AOHW-329.git)
+- 🔭 I’m currently working on my Master Thesis in collaboration with the Vehicle Safaty Department at Chalmers (repo soon available!)
 
-- 🌱 I’m currently learning **FPGAs/ASICs Design,Microcontrollers architecture,RISC-V and MIPS architecture, VHDL, Verilog, HLS**
+- 🌱 I’m currently learning **LLM, RAG, Data Pipeline, Cloud Infrastructure**
 
 - 📫 How to reach me **mattia.carlino22@gmail.com**
 
@@ -23,12 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marco la barbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco la barbera" height="30" width="40" /></a>
-<a href="https://instagram.com/marcolbr2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcolbr2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mattia-carlino-8b6071228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia carlino" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/marcolbr2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/marcolbr2001" /></a></p><br><br>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
 
