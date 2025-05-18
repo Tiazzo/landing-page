@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mattia Carlino </h1>
+<h1 align="center">Ciao 🤌, I'm Mattia Carlino </h1>
 <h3 align="center">A loud and expressive Italian computer engineer, passionate about AI and cloud computing!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiazzo&label=Profile%20views&color=0e75b6&style=flat" alt="Tiazzo" /> </p>< -->
